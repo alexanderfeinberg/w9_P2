@@ -22,4 +22,4 @@ HTML elements.
 Developer Tools to verify your results. Remember to use `debugger` and
 `console.log` to help you debug your code.
 
-[starter]: https://github.com/appacademy/practice-for-week-09-element-slection
+[starter]: https://github.com/appacademy/practice-for-week-09-element-selection
